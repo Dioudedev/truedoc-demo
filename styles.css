@@ -1,0 +1,8 @@
+@font-face{
+  font-family: "MaPoliceDynamique";
+  src: url("polices/ma-police.pfr");
+}
+h1{
+  font-family: "MaPoliceDynamique",
+    sans-serif;
+}
